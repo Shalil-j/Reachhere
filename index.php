@@ -86,11 +86,11 @@
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
           <div class="h-100">
             <h1 class="display-6 mb-5">
-              We're Here To Assist You With Exploring Protection
+              We're Here To Help you
             </h1>
             <p class="fs-5 text-primary mb-4">
-              Aliqu diam amet diam et eos. Clita erat ipsum et lorem sed stet
-              lorem sit clita duo justo erat amet
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum 
+              impedit esse consequatur, sapiente animi natus ratione dolores! 
             </p>
             <div class="row g-4 mb-4">
               <div class="col-sm-6">
@@ -132,9 +132,7 @@
           <div class="h-100 px-4 ps-lg-0">
             <h1 class="text-white mb-4">Our Happy Client</h1>
             <p class="text-light mb-5">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-              Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-              sed stet lorem sit clita duo justo magna dolore erat amet
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. In porro necessitatibus pariatur, ex modi quos, deleniti 
             </p>
             <a href="" class="align-self-start btn btn-secondary py-3 px-5">More Details</a>
           </div>
