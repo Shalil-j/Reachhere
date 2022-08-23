@@ -5,7 +5,12 @@
     --light: #F6F7FC;
     --dark: #15233C;
 }
-
+.bg--primary{
+    background-color: #3E4898 !important;
+}
+.text--color{
+    color:#3E4898 !important;
+}
 .back-to-top {
     position: fixed;
     display: none;
