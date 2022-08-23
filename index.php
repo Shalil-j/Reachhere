@@ -24,13 +24,12 @@
               <div class="row">
                 <div class="col-12 col-lg-6">
                   <h1 class="display-3 text-dark mb-4 animated slideInDown">
-                    Insurance Creates Wealth For Everyone
+                    Our Services
                   </h1>
                   <p class="fs-5 text-body mb-5">
-                    Clita erat ipsum et lorem et sit, sed stet lorem sit clita
-                    duo justo magna dolore erat amet
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, veritatis magnam exercitationem obcaecati pariatur fugiat labore illum praesentium quidem dolor
                   </p>
-                  <a href="" class="btn btn-primary py-3 px-5">More Details</a>
+                  <a href="./about.php" class="btn btn-primary py-3 px-5">Know More</a>
                 </div>
               </div>
             </div>
@@ -42,25 +41,25 @@
             <div class="container">
               <div class="row">
                 <div class="col-12 col-lg-6">
+                  <h3>Welcome To</h3>
                   <h1 class="display-3 text-dark mb-4 animated slideInDown">
-                    The Best Insurance Begins Here
+                    Reach Here
                   </h1>
                   <p class="fs-5 text-body mb-5">
-                    Clita erat ipsum et lorem et sit, sed stet lorem sit clita
-                    duo justo magna dolore erat amet
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, eaque facilis. Unde ratione tenetur laborum commodi, perspiciatis error velit rem at neque optio, aliquid ipsum! Nobis possimus aperiam sequi sunt.
                   </p>
-                  <a href="" class="btn btn-primary py-3 px-5">More Details</a>
+                  <a href="./contact.php" class="btn btn-primary py-3 px-5">Contact us</a>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+      <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev" style="width: 5rem;">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
       </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+      <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next"style="width: 5rem;">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
       </button>
@@ -131,7 +130,7 @@
       <div class="row g-0 mx-lg-0">
         <div class="col-lg-6 facts-text wow fadeIn" data-wow-delay="0.1s">
           <div class="h-100 px-4 ps-lg-0">
-            <h1 class="text-white mb-4">For Individuals And Organisations</h1>
+            <h1 class="text-white mb-4">Our Happy Client</h1>
             <p class="text-light mb-5">
               Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
               Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
@@ -142,22 +141,10 @@
         </div>
         <div class="col-lg-6 facts-counter wow fadeIn" data-wow-delay="0.5s">
           <div class="h-100 px-4 pe-lg-0">
-            <div class="row g-5">
-              <div class="col-sm-6">
-                <h1 class="display-5" data-toggle="counter-up">1234</h1>
+            <div class="row g-5 mx-auto">
+              <div class="col-12 mx-auto text-center">
+                <h1 class="display-5" data-toggle="counter-up" style="font-size: 5rem;">356</h1>
                 <p class="fs-5 text-primary">Happy Clients</p>
-              </div>
-              <div class="col-sm-6">
-                <h1 class="display-5" data-toggle="counter-up">1234</h1>
-                <p class="fs-5 text-primary">Projects Succeed</p>
-              </div>
-              <div class="col-sm-6">
-                <h1 class="display-5" data-toggle="counter-up">1234</h1>
-                <p class="fs-5 text-primary">Awards Achieved</p>
-              </div>
-              <div class="col-sm-6">
-                <h1 class="display-5" data-toggle="counter-up">1234</h1>
-                <p class="fs-5 text-primary">Team Members</p>
               </div>
             </div>
           </div>
